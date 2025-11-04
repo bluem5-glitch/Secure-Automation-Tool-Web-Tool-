@@ -1,1 +1,2 @@
 # Secure-Automation-Tool-Web-Tool-
+Developed an automated Python and Selenium tool for web form interaction, demonstrating advanced problem-solving by integrating a private LLM via an API for secure, local data processing. Built to demonstrate secure, local LLM integration. The tool's core web form automation is functional, but the LLM interface is currently failing to authenticate/respond due to [API changes]. The security framework for local data processing remains intact.
